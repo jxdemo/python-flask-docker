@@ -17,4 +17,4 @@ brew install jx
 
 ### Chores
 
-* fix the path to the jx binary
+* fix the path to the jx binary (testing)
